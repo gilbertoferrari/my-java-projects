@@ -1,0 +1,25 @@
+# Maven/Gradle build outputs
+target/
+build/
+.gradle/
+
+# IDE files (IntelliJ, Eclipse, VS Code)
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Compiled classes and files
+*.class
+*.jar
+*.war
+*.ear
+
+# Others
+.DS_Store
+logs/
+*.log
